@@ -42,13 +42,14 @@ API RESTful para gerenciamento de tarefas (to-do list), construída com NestJS, 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-```
 npm install
 npm install --save sequelize 
 npm install @nestjs/sequelize sequelize sequelize-typescript pg
 npm install @nestjs/sequelize sequelize sequelize-typescript pg pg-hstore
 npm install @nestjs/jwt passport-jwt @nestjs/passport passport bcrypt
-npm install --save-dev @types/passport-jwt @types/bcrypt       
+npm install --save-dev @types/passport-jwt @types/bcrypt   
+```
+    
 
 2. Inicie os containers Docker:
 
