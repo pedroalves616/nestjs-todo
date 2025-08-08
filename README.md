@@ -245,9 +245,3 @@ Configure as seguintes variáveis no arquivo `.env`:
 | `JWT_SECRET`       | Chave secreta para JWT      | `seusegredojwt`  |
 
 ---
-
-Se quiser posso ajudar a criar um arquivo `.env.example` para facilitar a configuração!
-
----
-
-Se precisar de mais alguma coisa, só avisar!
